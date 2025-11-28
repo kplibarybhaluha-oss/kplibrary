@@ -57,7 +57,7 @@ body {
     border: 4px solid #fff;
     border-radius: 50%;
     margin-bottom: 2rem;
-    background: url('https://i.postimg.cc/ZqBWrd2N/main-bg-lib-img.jpg') center/cover no-repeat;
+    background: url('https://i.ibb.co/k2Rv3mx7/main-bg-lib-img.jpg" ') center/cover no-repeat;
     animation: flipBook 2s infinite ease-in-out;
 }
 
@@ -728,4 +728,5 @@ footer {
     .footer-text {
         width: 100%;
     }
+
 }
