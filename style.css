@@ -260,7 +260,7 @@ nav a:hover {
 
 /*  */
 .hero {
-    background: url("/images/main-bg-lib-img.jpg") center/cover no-repeat;
+    background: url("https://i.postimg.cc/MX2Y9ktb/main-bg-lib-img.jpg") center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 5rem 1rem;
@@ -730,3 +730,4 @@ footer {
     }
 
 }
+
