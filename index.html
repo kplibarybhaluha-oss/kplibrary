@@ -180,10 +180,11 @@
     <!-- Contact -->
     <section id="contact">
         <h2>Contact Us</h2>
-        <form>
-            <input type="text" placeholder="Your Name" required>
-            <input type="email" placeholder="Your Email" required>
-            <textarea rows="5" placeholder="Your Message"></textarea>
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="a132252d-bdd7-4c55-8e4f-e1a2eb802e0a">
+            <input type="text" placeholder="Your Name" name="name" required>
+            <input type="email" placeholder="Your Email" name="email" required>
+            <textarea rows="5" placeholder="Your Message" name="message"></textarea>
             <button type="submit" id="btnContact">Send Message</button>
         </form>
     </section>
@@ -241,3 +242,4 @@
 
 
 </html>
+
